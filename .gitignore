@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (optional)
+# Uncomment the next line if you do NOT want to store trained models in Git
+# models/*.pkl
+
+# SQLite database (optional)
+# Uncomment the next line if you do NOT want to store the database in Git
+# data/*.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
